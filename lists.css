@@ -1,0 +1,11 @@
+ul {
+    list-style-type: circle;
+}
+
+.list-1 {
+    list-style-image: url('pointer-icon/pointer-icon.png');
+}
+
+.list-2 {
+    list-style-type: upper-roman;
+}
